@@ -1,0 +1,1080 @@
+{
+  "metadata": {
+    "siteName": "Nazzal Business Systems",
+    "defaultTitle": "Nazzal Business Systems",
+    "defaultDescription": "Nazzal Business Systems is an independent software studio operated by Ahmad Nazzal in Amman, Jordan. We build ERP, POS, inventory, and custom business software around real operations.",
+    "titleTemplate": "%s | Nazzal Business Systems"
+  },
+  "common": {
+    "localeEn": "EN",
+    "localeAr": "AR",
+    "productErp": "Innovation ERP",
+    "productPos": "POS",
+    "productIms": "Inventory Management System"
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "mainNavigation": "Main navigation",
+    "mobileNavigation": "Mobile navigation",
+    "whatsapp": "Contact on WhatsApp",
+    "homeLink": "Nazzal Business Systems home",
+    "language": "Language",
+    "languageSwitcher": "Choose site language",
+    "backToTop": "Back to top"
+  },
+  "nav": {
+    "systems": "Systems",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "discussCta": "Discuss Your System"
+  },
+  "footer": {
+    "descriptor": "Nazzal Business Systems is an independent software studio operated by Ahmad Nazzal in Amman, Jordan.",
+    "systems": "Systems",
+    "company": "Explore",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "location": "Amman, Jordan",
+    "copyright": "© {year} Nazzal Business Systems",
+    "ctaTitle": "Ready to discuss your system?",
+    "ctaBody": "Share how your operations work today. We will respond with a practical next step. Not a generic sales script.",
+    "ctaButton": "Discuss Your System",
+    "systemsNote": "Working proof systems",
+    "legal": "Legal",
+    "emailLabel": "Email"
+  },
+  "homepage": {
+    "hero": {
+      "eyebrow": "Independent software studio · Amman, Jordan",
+      "headline": "Custom business software shaped around how your business works.",
+      "supporting": "We design and build operational software that simplifies your daily work, connects your data, and helps you make better decisions.",
+      "primaryCta": "Discuss Your System",
+      "secondaryCta": "Explore Our Systems",
+      "preview": {
+        "ariaLabel": "Innovation ERP interface preview",
+        "productName": "Innovation ERP",
+        "search": "Search...",
+        "chartTitle": "Sales Overview",
+        "listTitle": "Top Products",
+        "nav": {
+          "dashboard": "Dashboard",
+          "sales": "Sales",
+          "purchases": "Purchases",
+          "inventory": "Inventory",
+          "accounting": "Accounting",
+          "reports": "Reports"
+        },
+        "stats": {
+          "sales": {
+            "label": "Total Sales",
+            "value": "1,250,000 JOD",
+            "trend": "+12.5%"
+          },
+          "profit": {
+            "label": "Net Profit",
+            "value": "320,000 JOD",
+            "trend": "+8.2%"
+          },
+          "orders": {
+            "label": "Orders",
+            "value": "1,842",
+            "trend": "+5.1%"
+          },
+          "products": {
+            "label": "Products",
+            "value": "486",
+            "trend": "+2.4%"
+          }
+        }
+      }
+    },
+    "proofStrip": {
+      "title": "What Nazzal Business Systems builds",
+      "items": {
+        "customSoftware": "Custom Business Software",
+        "innovationErp": "Innovation ERP",
+        "pos": "POS",
+        "inventory": "Inventory Management",
+        "bilingual": "English & Arabic",
+        "founder": "Built by Ahmad Nazzal"
+      }
+    },
+    "problems": {
+      "eyebrow": "Operational challenges",
+      "title": "When daily operations start working against you",
+      "description": "Growing businesses across Jordan and the region often recognize the same friction. Long before any new software is discussed.",
+      "items": {
+        "scattered": {
+          "title": "Information scattered across tools",
+          "description": "Critical details live in spreadsheets, WhatsApp threads, and notebooks. With no reliable single source of truth."
+        },
+        "manual": {
+          "title": "Manual workflows slowing every day",
+          "description": "Teams repeat the same steps by hand because processes were never designed to scale with the business."
+        },
+        "visibility": {
+          "title": "Limited visibility into stock and sales",
+          "description": "Owners and managers struggle to see what is selling, what is running low, and what needs attention now."
+        },
+        "disconnected": {
+          "title": "Disconnected systems, duplicate work",
+          "description": "The same data gets entered more than once because tools do not talk to each other."
+        },
+        "decisions": {
+          "title": "Decisions made without reliable data",
+          "description": "Important calls wait on someone to compile numbers manually. Or get made on incomplete information."
+        },
+        "mismatch": {
+          "title": "Software that does not fit the business",
+          "description": "Off-the-shelf tools almost work, but daily workarounds pile up because the workflow was never yours."
+        }
+      }
+    },
+    "innovationErp": {
+      "eyebrow": "Innovation ERP",
+      "title": "One integrated system for how your business actually runs",
+      "description": "Innovation ERP is NBS's flagship proof platform. Built to connect daily operations across sales, purchasing, inventory, and finance in a working system you can evaluate.",
+      "capabilities": {
+        "connected": "Sales, purchasing, and inventory workflows connected in one place",
+        "roles": "Role-based access for owners, managers, and operational staff",
+        "visibility": "Operational and financial visibility without manual report assembly",
+        "bilingual": "Arabic and English interfaces for regional teams"
+      },
+      "primaryCta": "Explore Innovation ERP",
+      "secondaryCta": "Request Demo",
+      "demoOpenCta": "Open ERP Demo",
+      "demoComingSoon": "Demo Coming Soon",
+      "mediaCaption": "Innovation ERP dashboard. Integrated operations overview (demonstration interface).",
+      "playLabel": "Play Innovation ERP demonstration",
+      "mediaUnavailable": "Static preview. Video playback respects reduced-motion settings."
+    },
+    "pos": {
+      "eyebrow": "POS",
+      "title": "Point of sale built for daily retail operations",
+      "description": "A working proof system for checkout, catalog management, and sales recording. Designed for shops that need reliable daily retail workflows.",
+      "capabilities": {
+        "checkout": "Fast checkout and receipt workflows for front-line staff",
+        "catalog": "Product catalog and pricing under your control",
+        "visibility": "Sales activity recorded for operational visibility"
+      },
+      "primaryCta": "Explore POS",
+      "secondaryCta": "Request Demo",
+      "demoOpenCta": "Open POS Demo",
+      "demoComingSoon": "Demo Coming Soon",
+      "mediaCaption": "POS interface. Checkout and daily retail operations (demonstration interface).",
+      "playLabel": "Play POS demonstration",
+      "mediaUnavailable": "Static preview. Video playback respects reduced-motion settings."
+    },
+    "ims": {
+      "eyebrow": "Inventory Management",
+      "title": "Stock visibility across warehouses and purchasing",
+      "description": "A working proof system for tracking inventory, suppliers, and stock movements. For businesses that need clarity before problems become costly.",
+      "capabilities": {
+        "stock": "Warehouse and stock levels visible in one place",
+        "purchasing": "Purchasing and supplier workflows connected to inventory",
+        "movements": "Stock movements tracked for operational accountability"
+      },
+      "primaryCta": "Explore Inventory System",
+      "secondaryCta": "Request Demo",
+      "demoOpenCta": "Open Inventory Demo",
+      "demoComingSoon": "Demo Coming Soon",
+      "mediaCaption": "Inventory dashboard. Stock visibility, movements, and purchasing (demonstration interface).",
+      "playLabel": "Play inventory system demonstration",
+      "mediaUnavailable": "Static preview. Video playback respects reduced-motion settings."
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "Built around your operations. Not only three products",
+      "description": "The ERP, POS, and inventory systems prove how NBS works. When your workflows need a tailored build, adaptation, or connection to what you already run, engagement starts with the business problem. Not a generic feature list.",
+      "primaryCta": "Discuss Your System",
+      "secondaryCta": "See how engagement works",
+      "items": {
+        "custom": {
+          "title": "Custom business software",
+          "description": "Software shaped around how people actually sell, buy, store, and report. Without forcing an off-the-shelf mold."
+        },
+        "erp": {
+          "title": "ERP and operational systems",
+          "description": "Integrated operations spanning sales, purchasing, stock, and finance when one connected system is the right fit."
+        },
+        "pos": {
+          "title": "POS and retail workflows",
+          "description": "Checkout, catalog, and front-line sales flows for shops that need reliable daily retail operations."
+        },
+        "inventory": {
+          "title": "Inventory and warehouse systems",
+          "description": "Stock visibility, suppliers, purchasing, and warehouse movements designed for operational clarity."
+        },
+        "dashboards": {
+          "title": "Internal dashboards and automation",
+          "description": "Focused tools that cut manual work. Reporting views, operational panels, and workflow automation where it pays off."
+        },
+        "integrations": {
+          "title": "Integrations and modernization",
+          "description": "Connect existing tools, replace fragile spreadsheets, and modernize processes without replacing everything at once."
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "How engagement works",
+      "title": "A clear path from first talk to working software",
+      "description": "No vague sales process. Each step narrows scope, tests real workflows, and keeps decisions grounded in your business.",
+      "steps": {
+        "understand": {
+          "title": "Understand the business",
+          "description": "We learn how you operate today. Pain points, constraints, and what “working well” would look like."
+        },
+        "scope": {
+          "title": "Define scope and priorities",
+          "description": "Together we set boundaries, phase work, and agree what matters first so delivery stays practical."
+        },
+        "build": {
+          "title": "Design and build",
+          "description": "Interfaces and workflows are designed and built against the agreed scope. visible progress, with nothing hidden."
+        },
+        "test": {
+          "title": "Test real workflows",
+          "description": "We validate with your daily scenarios so the system holds up where it matters operationally."
+        },
+        "deploy": {
+          "title": "Deploy, train, and improve",
+          "description": "launch support, team training, and an orderly path to refine what the first version reveals."
+        }
+      }
+    },
+    "founder": {
+      "eyebrow": "Founder",
+      "title": "Software built with the business in mind.",
+      "story": {
+        "lead": "Nazzal Business Systems was created to solve real operational problems. Not to sell abstract platforms.",
+        "body": "Every project starts by understanding how the work actually moves: who does what, where friction builds, and what clarity would change day to day.",
+        "close": "Software should simplify operations and leave room to grow. Without forcing a business to reshape itself around someone else's product."
+      },
+      "principles": {
+        "understand": "Understand before building",
+        "practical": "Keep systems practical",
+        "growth": "Build for long-term growth"
+      },
+      "attribution": {
+        "name": "Ahmad Nazzal",
+        "role": "Founder, Nazzal Business Systems · Amman, Jordan"
+      },
+      "portfolioCta": "View Ahmad's Portfolio",
+      "portfolioComingSoon": "Portfolio Coming Soon",
+      "portraitAlt": "Portrait illustration of Ahmad Nazzal, founder of Nazzal Business Systems",
+      "portraitCaption": "Ahmad Nazzal. Founder of Nazzal Business Systems.",
+      "portraitUnavailable": "Portrait preview unavailable"
+    },
+    "consultation": {
+      "title": "Let's discuss how your business works.",
+      "description": "An initial consultation is a focused conversation about your operations, priorities, and whether a system from NBS is the right next step. No pressure, no generic pitch.",
+      "primaryCta": "Discuss Your System",
+      "secondaryCta": "WhatsApp"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Straight answers before you reach out",
+      "description": "A few of the questions buyers ask most often. Answered without inflated claims.",
+      "items": {
+        "customVsReady": {
+          "question": "Do you sell ready-made systems or build custom software?",
+          "answer": "Both paths exist. Innovation ERP, POS, and the inventory system are working proof systems you can evaluate. When your workflows need something tailored or combined, we design and build against your operations. Not a generic template."
+        },
+        "demoAccess": {
+          "question": "Can I try the systems myself?",
+          "answer": "Yes. Demo access is available by request. Share what you want to evaluate, and we arrange access or a guided walkthrough after a short qualification conversation."
+        },
+        "customization": {
+          "question": "Can you adapt the software to our workflow?",
+          "answer": "Yes. Adaptation starts with understanding how you work today, then scoping what should change. We avoid forcing rigid product molds when the process itself needs operational fit."
+        },
+        "language": {
+          "question": "Do you support Arabic and English?",
+          "answer": "Yes. The website is bilingual, and the systems are designed for Arabic and English use. Including RTL where it matters for daily work."
+        },
+        "processTimeline": {
+          "question": "What does the process look like, and how long does it take?",
+          "answer": "Engagement typically moves from understanding your business, to scoped priorities, build, real-workflow testing, then deploy and training. Timelines depend on scope and readiness. Exact dates are set after discovery, not as marketing promises."
+        },
+        "pricing": {
+          "question": "How is pricing determined?",
+          "answer": "Published starting prices in JOD are reference points for Innovation ERP, POS, Inventory Management, and custom software. Final quotations depend on confirmed scope. Modules, users, integrations, migration, deployment, training, and support. And are not binding offers until agreed in writing. Optional add-ons and third-party costs may be quoted separately. Taxes or legally required charges, if applicable, are handled in the final quote."
+        },
+        "support": {
+          "question": "What happens after launch?",
+          "answer": "launch support and training are part of a practical delivery plan. Ongoing improvements and support are agreed by scope so expectations stay clear after the first version is live."
+        },
+        "location": {
+          "question": "Where is NBS based, and do you work remotely?",
+          "answer": "Nazzal Business Systems is an independent software studio operated by Ahmad Nazzal in Amman, Jordan. Engagements may be handled locally or remotely, depending on what the work needs."
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Tell us how your business works",
+      "description": "Share enough context for a useful first conversation. Inquiries are reviewed personally by Ahmad Nazzal. No automated sales funnel.",
+      "location": "Amman, Jordan",
+      "privacyNote": "By submitting, you agree we may use your details to respond to this inquiry. See our <privacy>Privacy</privacy> page.",
+      "channels": {
+        "whatsapp": "WhatsApp"
+      },
+      "form": {
+        "panelTitle": "Send an inquiry",
+        "panelDescription": "Share the essentials below. We review every message personally.",
+        "groups": {
+          "contactInfo": "Contact details",
+          "inquiry": "Your inquiry"
+        },
+        "optional": "(optional)",
+        "submit": "Send message",
+        "submitting": "Sending…",
+        "helper": "No spam, no shared lead lists. Just a direct response about your inquiry.",
+        "interestPlaceholder": "Select an option",
+        "offlineTitle": "Your inquiry is ready. Delivery is not connected yet",
+        "offlineBody": "This form validates and holds your details on this page, but inbox delivery is not connected yet. Please try again later or use a channel Ahmad has already shared with you.",
+        "offlineBodyWithChannels": "This form validates and holds your details on this page, but inbox delivery is not connected yet. Please reach us on WhatsApp or email so we can respond.",
+        "successTitle": "Message sent",
+        "successBody": "Thank you. Your inquiry was delivered successfully. We will review it and respond personally.",
+        "notConfiguredTitle": "Email delivery is not configured yet",
+        "notConfiguredBody": "Your details were validated, but the mail service is not connected in this environment. Please use the email or WhatsApp options below.",
+        "deliveryErrorTitle": "We could not deliver your message",
+        "deliveryErrorBody": "Something went wrong while sending. Please try again shortly, or reach us directly by email or WhatsApp.",
+        "rateLimitedTitle": "Too many attempts",
+        "rateLimitedBody": "Please wait a minute before sending another inquiry.",
+        "errorBanner": "Please fix the highlighted fields and try again.",
+        "mailtoSubject": "NBS inquiry",
+        "channels": {
+          "whatsapp": "Continue on WhatsApp",
+          "email": "Open email draft"
+        },
+        "fields": {
+          "name": "Name",
+          "company": "Business / organization",
+          "email": "Email",
+          "phone": "Phone / WhatsApp",
+          "interest": "System interest",
+          "message": "Message",
+          "consent": "I agree that NBS may use these details to respond to my inquiry."
+        },
+        "interestOptions": {
+          "innovation-erp": "Innovation ERP",
+          "pos": "POS",
+          "inventory": "Inventory Management",
+          "custom": "Custom software",
+          "not-sure": "Not sure yet"
+        },
+        "errors": {
+          "nameRequired": "Please enter your name.",
+          "emailRequired": "Please enter your email.",
+          "emailInvalid": "Enter a valid email address.",
+          "interestRequired": "Please choose a system interest.",
+          "messageRequired": "Please add a short message.",
+          "messageShort": "Add a bit more detail so we can respond usefully.",
+          "consentRequired": "Consent is required before sending."
+        }
+      }
+    },
+    "sections": {
+      "hero": {
+        "title": "Hero",
+        "status": "Hero section will be implemented in the next milestone."
+      },
+      "proof": {
+        "title": "Proof systems",
+        "status": "Proof strip will be implemented in a later milestone."
+      },
+      "problems": {
+        "title": "Business problems",
+        "status": "Problem section content will be implemented in a later milestone."
+      },
+      "innovationErp": {
+        "title": "Innovation ERP",
+        "status": "Innovation ERP showcase will be implemented in Milestone 7."
+      },
+      "pos": {
+        "title": "POS",
+        "status": "POS showcase will be implemented in Milestone 7."
+      },
+      "inventory": {
+        "title": "Inventory Management System",
+        "status": "IMS showcase will be implemented in Milestone 7."
+      },
+      "services": {
+        "title": "Custom software services",
+        "status": "Services section will be implemented in a later milestone."
+      },
+      "process": {
+        "title": "Engagement process",
+        "status": "Process section will be implemented in a later milestone."
+      },
+      "founder": {
+        "title": "Founder",
+        "status": "Founder section will be implemented in a later milestone."
+      },
+      "consultation": {
+        "title": "Consultation",
+        "status": "Consultation CTA will be implemented in a later milestone."
+      },
+      "faq": {
+        "title": "FAQ",
+        "status": "FAQ section will be implemented in a later milestone."
+      },
+      "contact": {
+        "title": "Contact",
+        "status": "Contact section will be implemented in a later milestone."
+      }
+    }
+  },
+  "placeholder": {
+    "status": "This page is under development. Content will be added in a future milestone."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you requested does not exist.",
+    "backHome": "Return to homepage"
+  },
+  "routes": {
+    "systemsInnovationErp": {
+      "metaTitle": "Innovation ERP",
+      "title": "Innovation ERP"
+    },
+    "systemsPos": {
+      "metaTitle": "POS",
+      "title": "POS"
+    },
+    "systemsInventory": {
+      "metaTitle": "Inventory Management System",
+      "title": "Inventory Management System"
+    },
+    "services": {
+      "metaTitle": "Services",
+      "title": "Services"
+    },
+    "about": {
+      "metaTitle": "About",
+      "title": "About"
+    },
+    "contact": {
+      "metaTitle": "Contact",
+      "title": "Contact"
+    },
+    "privacy": {
+      "metaTitle": "Privacy Policy",
+      "metaDescription": "How Nazzal Business Systems collects and uses contact details sent through this website, informed by Jordan’s Personal Data Protection Law No. 24 of 2023.",
+      "title": "Privacy Policy"
+    },
+    "terms": {
+      "metaTitle": "Terms of Use",
+      "metaDescription": "Terms governing use of the Nazzal Business Systems website, demos, and starting price references.",
+      "title": "Terms of Use"
+    },
+    "pricing": {
+      "metaTitle": "Pricing",
+      "metaDescription": "Starting reference prices in JOD for Innovation ERP, POS, Inventory Management, and custom business software, plus add-ons and quotation factors.",
+      "title": "Pricing"
+    }
+  },
+  "pricing": {
+    "shared": {
+      "startingFrom": "Starting from",
+      "perMonth": "/month",
+      "afterScope": "Quoted after scope",
+      "separately": "Quoted separately at actual cost",
+      "disclaimer": "All prices are starting references in JOD, not binding offers. Final pricing depends on confirmed scope. Taxes or legally required charges, if any, are handled in the final quote. Payment milestones are set in the written agreement.",
+      "discussCta": "Discuss Your System",
+      "requestQuoteCta": "Request a detailed quotation",
+      "whatsappCta": "WhatsApp",
+      "includedNote": "Included starting scope (confirmed after consultation)",
+      "optionalNote": "Optional additions. Quoted when needed",
+      "notBinding": "Not a binding offer",
+      "bilingualIncluded": "Where a product already ships in Arabic and English, basic bilingual support is included. It is not billed as a separate add-on."
+    },
+    "homepage": {
+      "eyebrow": "Pricing",
+      "title": "Clear starting prices for systems built around real operations",
+      "description": "A concise preview of the lowest starting references for each product. Open full pricing for packages, add-ons, and quotation factors.",
+      "viewDetails": "View pricing details",
+      "viewFull": "View full pricing details"
+    },
+    "page": {
+      "eyebrow": "Pricing",
+      "title": "Starting prices you can plan around",
+      "description": "Compare packages for Innovation ERP, POS, Inventory, and custom software. These figures help you start a useful conversation. Final pricing follows the scope we confirm together.",
+      "productsEyebrow": "Product packages",
+      "productsTitle": "Choose a starting package",
+      "productsDescription": "Each card shows a starting price, who it fits, and what is typically included. Nothing here is a binding offer.",
+      "jumpLabel": "Pricing sections",
+      "navSelectLabel": "Jump to product",
+      "comparisonEyebrow": "Quick compare",
+      "comparisonTitle": "Lowest starting package by product",
+      "comparisonDescription": "Scan the lowest starting package for each product, then open a product for the full set of packages.",
+      "addonsEyebrow": "Optional add-ons",
+      "addonsTitle": "Extras you can add when needed",
+      "addonsDescription": "Useful for planning. Not required for every project. Hosting, domains, email, paid APIs, and third-party subscriptions are charged separately at actual cost when used.",
+      "factorsEyebrow": "What shapes the quote",
+      "factorsTitle": "What we review before confirming price",
+      "factorsDescription": "Final pricing depends on how the business actually works, not on forcing one fixed package.",
+      "faqEyebrow": "Pricing FAQ",
+      "faqTitle": "Common pricing questions",
+      "faqDescription": "Short answers about starting prices, quotes, taxes, and payment.",
+      "ctaEyebrow": "Next step",
+      "ctaTitle": "Ready to discuss the right package?",
+      "ctaDescription": "Tell us how operations work today. Ahmad will reply with a practical next step and, when scope is clear, a detailed quotation.",
+      "browsePackages": "Browse packages",
+      "navAddons": "Add-ons",
+      "exclusionsEyebrow": "Clear limits",
+      "exclusionsTitle": "What starting prices do not include",
+      "exclusionsDescription": "These points stay outside the published starting references unless agreed in writing."
+    },
+    "products": {
+      "erp": {
+        "name": "Innovation ERP",
+        "idealFor": "Ideal when sales, purchasing, inventory, and finance need one connected operational system.",
+        "detailTitle": "Innovation ERP packages",
+        "detailDescription": "Integrated operational systems with room to expand modules as the business grows.",
+        "features": {
+          "ops": "Connected sales, purchasing, and inventory flows",
+          "roles": "Role-based access for owners and operators",
+          "bilingual": "Arabic and English interfaces",
+          "visibility": "Operational visibility without manual report assembly"
+        },
+        "packages": {
+          "foundation": {
+            "name": "ERP Foundation",
+            "description": "Essential connected operations for businesses ready to move off fragmented tools.",
+            "includes": {
+              "sales": "Sales recording and follow-up",
+              "purchasing": "Purchasing workflows",
+              "inventory": "Inventory tracking",
+              "roles": "Owner and operator roles",
+              "bilingual": "Arabic and English interface",
+              "reports": "Core operational reports"
+            }
+          },
+          "growth": {
+            "name": "ERP Growth",
+            "description": "Broader module coverage and deeper workflows across more of the operation.",
+            "includes": {
+              "foundation": "Foundation operational coverage",
+              "extraModules": "Additional connected modules",
+              "deeperWorkflows": "Deeper department workflows",
+              "roles": "Expanded role structure",
+              "bilingual": "Arabic and English interface",
+              "onboarding": "Structured handover and onboarding"
+            }
+          },
+          "tailored": {
+            "name": "Tailored ERP Platform",
+            "description": "A more customized platform shaped around complex processes and phased growth.",
+            "includes": {
+              "customFlows": "Workflows adapted to complex processes",
+              "integrations": "Integration planning where needed",
+              "phased": "Phased delivery plan",
+              "roles": "Role-based access",
+              "bilingual": "Arabic and English interface",
+              "training": "Training aligned to launch"
+            }
+          }
+        }
+      },
+      "pos": {
+        "name": "POS System",
+        "idealFor": "Ideal for shops that need reliable checkout, catalog control, and daily retail sales workflows.",
+        "detailTitle": "POS packages",
+        "detailDescription": "Point-of-sale systems sized for a single counter through multi-branch retail operations.",
+        "features": {
+          "checkout": "Fast checkout and receipt workflows",
+          "catalog": "Product catalog and pricing control",
+          "receipts": "Daily sales recording for front-line use",
+          "sales": "Sales visibility for owners and managers"
+        },
+        "packages": {
+          "single": {
+            "name": "Single-location POS",
+            "description": "A focused retail POS for one shop or counter with clear daily workflows.",
+            "includes": {
+              "checkout": "Checkout and payment flow",
+              "catalog": "Product catalog control",
+              "receipts": "Receipt printing or digital receipts",
+              "dailySales": "Daily sales recording",
+              "bilingual": "Arabic and English interface"
+            }
+          },
+          "managed": {
+            "name": "POS with management and reports",
+            "description": "Adds stronger management views and reporting for daily retail control.",
+            "includes": {
+              "checkout": "Checkout and payment flow",
+              "catalog": "Product catalog control",
+              "receipts": "Receipt workflows",
+              "reports": "Management and sales reports",
+              "managerViews": "Manager visibility into daily trade",
+              "bilingual": "Arabic and English interface"
+            }
+          },
+          "multi": {
+            "name": "Multi-branch POS",
+            "description": "Coordinated retail operations across additional branches or locations.",
+            "includes": {
+              "multiLocation": "Support for more than one location",
+              "catalog": "Shared or coordinated catalog control",
+              "receipts": "Receipt workflows",
+              "reports": "Cross-location sales visibility",
+              "coordination": "Branch coordination basics",
+              "bilingual": "Arabic and English interface"
+            }
+          }
+        }
+      },
+      "ims": {
+        "name": "Inventory Management System",
+        "idealFor": "Ideal when stock levels, suppliers, and warehouse movements need operational clarity.",
+        "detailTitle": "Inventory packages",
+        "detailDescription": "Inventory systems from a focused stock core to purchasing and multi-warehouse workflows.",
+        "features": {
+          "stock": "Warehouse and stock levels in one place",
+          "suppliers": "Supplier and purchasing visibility",
+          "movements": "Tracked stock movements",
+          "alerts": "Operational accountability before shortages escalate"
+        },
+        "packages": {
+          "core": {
+            "name": "Core Inventory",
+            "description": "Clear stock visibility for businesses replacing spreadsheet tracking.",
+            "includes": {
+              "stockLevels": "Stock level tracking",
+              "movements": "Basic stock movements",
+              "basics": "Core warehouse records",
+              "alerts": "Low-stock attention points",
+              "bilingual": "Arabic and English interface"
+            }
+          },
+          "purchasing": {
+            "name": "Inventory + Purchasing",
+            "description": "Stock and purchasing processes connected for fewer gaps between buy and receive.",
+            "includes": {
+              "stockLevels": "Stock level tracking",
+              "suppliers": "Supplier records",
+              "purchaseFlows": "Purchasing workflows",
+              "movements": "Tracked stock movements",
+              "alerts": "Operational stock alerts",
+              "bilingual": "Arabic and English interface"
+            }
+          },
+          "multiWarehouse": {
+            "name": "Multi-warehouse IMS",
+            "description": "Inventory across locations with stronger movement control and accountability.",
+            "includes": {
+              "multiSite": "Multi-warehouse stock visibility",
+              "transfers": "Transfer and movement control",
+              "suppliers": "Supplier visibility",
+              "accountability": "Stronger accountability trails",
+              "alerts": "Operational stock alerts",
+              "bilingual": "Arabic and English interface"
+            }
+          }
+        }
+      },
+      "custom": {
+        "name": "Custom Business Software",
+        "idealFor": "Ideal when workflows do not fit a packaged ERP, POS, or inventory mold.",
+        "detailTitle": "Custom software packages",
+        "detailDescription": "Tailored tools and platforms shaped around how the business actually works.",
+        "features": {
+          "workflow": "Software shaped around real workflows",
+          "integration": "Room for integrations and modernization",
+          "fit": "Built for operational fit. Not a rigid product mold",
+          "growth": "Designed for practical long-term growth"
+        },
+        "packages": {
+          "focused": {
+            "name": "Focused workflow tool",
+            "description": "A defined operational tool that solves a specific process without overbuilding.",
+            "includes": {
+              "oneWorkflow": "One defined business workflow",
+              "simpleUi": "Clear, focused screens",
+              "handover": "Handover documentation",
+              "bilingual": "Arabic and English where required"
+            }
+          },
+          "connected": {
+            "name": "Connected business system",
+            "description": "A multi-process system that links people, data, and daily decisions.",
+            "includes": {
+              "multiProcess": "Multiple connected processes",
+              "roles": "Role-based access",
+              "integrations": "Integration points where needed",
+              "reporting": "Practical reporting views",
+              "bilingual": "Arabic and English where required",
+              "training": "Training for daily users"
+            }
+          },
+          "platform": {
+            "name": "Larger custom platform",
+            "description": "A broader tailored platform for complex operations and phased delivery.",
+            "includes": {
+              "complexOps": "Support for more complex operations",
+              "phased": "Phased delivery plan",
+              "integrations": "Integration planning",
+              "roles": "Role-based access",
+              "bilingual": "Arabic and English where required",
+              "supportPlan": "Agreed post-launch support plan"
+            }
+          }
+        },
+        "shortName": "Custom Software"
+      }
+    },
+    "addons": {
+      "additionalModule": {
+        "name": "Additional standard module",
+        "description": "Extend a system with another standard operational module."
+      },
+      "complexModule": {
+        "name": "Complex custom module",
+        "description": "A more specialized module with deeper workflow or data requirements."
+      },
+      "thirdPartyIntegration": {
+        "name": "Third-party integration",
+        "description": "Connect NBS software with an external tool or service already in use."
+      },
+      "dataMigration": {
+        "name": "Data import or migration",
+        "description": "Move existing catalogs, stock, or customer records into the new system."
+      },
+      "additionalBranch": {
+        "name": "Additional branch / location setup",
+        "description": "Add another branch, warehouse, or operating location to the scoped system."
+      },
+      "customReport": {
+        "name": "Custom report",
+        "description": "A focused reporting view beyond the baseline delivery."
+      },
+      "customDashboard": {
+        "name": "Custom dashboard",
+        "description": "An operational dashboard tailored to decision views you need."
+      },
+      "staffTraining": {
+        "name": "Staff training session",
+        "description": "A structured session to help people adopt the system confidently."
+      },
+      "deploymentSetup": {
+        "name": "Deployment setup",
+        "description": "Environment and launch setup assistance for the scoped system."
+      },
+      "ongoingSupport": {
+        "name": "Ongoing support",
+        "description": "Monthly support for routine questions and operational continuity."
+      },
+      "prioritySupport": {
+        "name": "Priority support",
+        "description": "Elevated monthly response handling for higher-urgency needs."
+      },
+      "hostingServices": {
+        "name": "Hosting, domains, email, and paid APIs",
+        "description": "Infrastructure and third-party subscriptions are charged separately at actual cost where applicable."
+      }
+    },
+    "factors": {
+      "modules": "Number of modules included",
+      "complexity": "Workflow complexity and customization depth",
+      "users": "Users and role structure",
+      "branches": "Branches and warehouses",
+      "integrations": "Third-party integrations",
+      "migration": "Existing data migration",
+      "deployment": "Deployment requirements",
+      "support": "Training and ongoing support"
+    },
+    "faq": {
+      "startingVsFinal": {
+        "question": "What does “starting from” mean?",
+        "answer": "It is an initial reference for orientation. The final quotation depends on confirmed scope and may be higher once modules, users, integrations, migration, deployment, training, and support are clear."
+      },
+      "binding": {
+        "question": "Are published prices binding offers?",
+        "answer": "No. Website prices are not binding. Final scope, deliverables, payment schedule, ownership, support, and price require a separate written agreement."
+      },
+      "taxes": {
+        "question": "Are taxes included?",
+        "answer": "Taxes or legally required charges, if applicable, are handled in the final quote. Not automatically assumed in published starting references."
+      },
+      "payment": {
+        "question": "How is payment structured?",
+        "answer": "Payment milestones are defined in the final written agreement for each engagement."
+      },
+      "addons": {
+        "question": "Are add-ons required?",
+        "answer": "No. Add-ons are optional planning references. Hosting and third-party subscriptions are separate when used."
+      },
+      "locales": {
+        "question": "Is Arabic / English billed separately?",
+        "answer": "Basic bilingual product support is included where the system already ships in Arabic and English. It is not listed as a paid add-on."
+      }
+    },
+    "exclusions": {
+      "hosting": "Hosting, domains, email services, and paid third-party APIs",
+      "thirdPartySubs": "Ongoing third-party subscriptions billed at actual cost",
+      "unscoped": "Work outside the confirmed scope",
+      "binding": "Any promise that published starting prices are final offers"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "metaTitle": "Privacy Policy",
+      "metaDescription": "How Ahmad Nazzal, operating under the Nazzal Business Systems brand, handles inquiry-form information under Jordan’s Personal Data Protection Law No. 24 of 2023.",
+      "eyebrow": "Legal",
+      "title": "Privacy Policy",
+      "intro": "This policy explains how personal information submitted through this website is handled. The website is operated by Ahmad Nazzal under the Nazzal Business Systems (NBS) brand in Amman, Jordan. The text reflects how the site actually works today and is informed by Jordan’s Personal Data Protection Law No. 24 of 2023. It is not a certification of legal compliance.",
+      "effectiveLabel": "Effective date:",
+      "effectiveDate": "14 July 2026",
+      "sectionOrder": [
+        "operator",
+        "collected",
+        "purpose",
+        "lawful",
+        "minimization",
+        "retention",
+        "providers",
+        "sharing",
+        "sale",
+        "security",
+        "rights",
+        "cookies",
+        "external",
+        "updates"
+      ],
+      "sections": {
+        "operator": {
+          "title": "Who operates this website",
+          "paragraphs": [
+            "Nazzal Business Systems is an independent software studio operated by Ahmad Nazzal in Amman, Jordan. NBS is currently a brand/studio operated by Ahmad, not presented here as a registered Jordanian company, LLC, or organization with public office premises or employed staff.",
+            "Privacy questions and data requests: nazzall.ahmed@gmail.com."
+          ]
+        },
+        "collected": {
+          "title": "Information collected through the inquiry form",
+          "paragraphs": [
+            "When you use the contact form, we may receive: your name, business/organization name (optional), email address, phone or WhatsApp number (optional), selected system interest, message text, and the website locale used when submitting.",
+            "A hidden anti-spam field may be processed server-side and is not used for marketing. Payment card details are not collected through this website."
+          ]
+        },
+        "purpose": {
+          "title": "Purpose of processing",
+          "paragraphs": [
+            "Inquiry details are used only to review your message and respond personally, for example to discuss demos, scope, next steps, or a quotation conversation.",
+            "They are not used for automated marketing lists or third-party advertising."
+          ]
+        },
+        "lawful": {
+          "title": "Consent and withdrawal",
+          "paragraphs": [
+            "By submitting the form and confirming consent, you ask that the provided details be used to reply to your inquiry.",
+            "You may withdraw consent or ask us to stop using inquiry details for follow-up by emailing nazzall.ahmed@gmail.com. Where Jordan’s Personal Data Protection Law No. 24 of 2023 applies, personal data is handled for clear purposes and only as needed to respond or operate the website."
+          ]
+        },
+        "minimization": {
+          "title": "Data minimization",
+          "paragraphs": [
+            "Only fields needed to understand and answer an inquiry are requested. Optional fields can be left blank."
+          ]
+        },
+        "retention": {
+          "title": "Storage and retention",
+          "paragraphs": [
+            "Inquiry messages are delivered by email and may be kept in mailbox or related operational records for as long as reasonably needed to handle the conversation and keep a practical business record.",
+            "When the information is no longer needed for that purpose, it is deleted or reduced where feasible. There is no separate long-term marketing database on this website."
+          ]
+        },
+        "providers": {
+          "title": "Email delivery and hosting providers",
+          "paragraphs": [
+            "Contact form delivery uses Resend as the email-delivery provider when configured.",
+            "The website is hosted on Vercel (or another hosting provider configured for deployment). Hosting infrastructure may process technical data required to serve the site (for example IP addresses in server logs).",
+            "These providers process data for limited operational purposes and are not authorized to sell inquiry details."
+          ]
+        },
+        "sharing": {
+          "title": "Limited service-provider sharing",
+          "paragraphs": [
+            "Personal information is shared only where needed to operate the website and respond to inquiries, for example with email delivery or hosting providers, or when required by applicable law."
+          ]
+        },
+        "sale": {
+          "title": "No sale of personal information",
+          "paragraphs": [
+            "Personal information collected through this website is not sold."
+          ]
+        },
+        "security": {
+          "title": "Security limitations",
+          "paragraphs": [
+            "Reasonable technical and organizational steps are taken to protect information in transit and in email handling. No method of transmission or storage is completely secure, and absolute security cannot be guaranteed."
+          ]
+        },
+        "rights": {
+          "title": "Access, correction, deletion, and objection",
+          "paragraphs": [
+            "Depending on applicable law, you may request access to, correction of, or deletion of personal information held about an inquiry, or object to continued use for follow-up.",
+            "Send requests to nazzall.ahmed@gmail.com. Reasonable verification may be needed before a response."
+          ]
+        },
+        "cookies": {
+          "title": "Cookies and analytics",
+          "paragraphs": [
+            "This website does not currently use advertising cookies or third-party analytics configured by NBS. Essential technical behavior of the host or browser may still apply.",
+            "If analytics or additional cookies are introduced later, this policy will be updated to describe them."
+          ]
+        },
+        "external": {
+          "title": "External demos, portfolio links, and third-party services",
+          "paragraphs": [
+            "This website may link to external demo environments, a portfolio page, WhatsApp, or other third-party services. Those destinations have their own practices and are not covered by this policy.",
+            "Opening an external link is your choice."
+          ]
+        },
+        "updates": {
+          "title": "Policy changes",
+          "paragraphs": [
+            "This Privacy Policy may be updated when website behavior, providers, or legal requirements change. The effective date above will be revised when material updates are published."
+          ]
+        }
+      },
+      "contactHeading": "Contact for privacy requests",
+      "contactBody": "Email Ahmad Nazzal (Nazzal Business Systems brand) at nazzall.ahmed@gmail.com for privacy questions or data requests.",
+      "contactPageLink": "Go to the contact section"
+    },
+    "terms": {
+      "metaTitle": "Terms of Use",
+      "metaDescription": "Terms for using the Nazzal Business Systems website operated by Ahmad Nazzal in Amman, Jordan.",
+      "eyebrow": "Legal",
+      "title": "Terms of Use",
+      "intro": "These Terms of Use govern access to this website. The service provider is Ahmad Nazzal, an independent software developer operating under the Nazzal Business Systems brand in Amman, Jordan. By using the site, you agree to these terms. They do not replace a signed agreement for software delivery.",
+      "effectiveLabel": "Effective date:",
+      "effectiveDate": "14 July 2026",
+      "sectionOrder": [
+        "provider",
+        "purpose",
+        "informational",
+        "pricing",
+        "demos",
+        "relationship",
+        "acceptable",
+        "ip",
+        "restrictions",
+        "external",
+        "availability",
+        "warranties",
+        "liability",
+        "law",
+        "changes"
+      ],
+      "sections": {
+        "provider": {
+          "title": "Service provider",
+          "paragraphs": [
+            "This website is provided by Ahmad Nazzal, an independent software developer operating under the Nazzal Business Systems brand in Amman, Jordan.",
+            "These terms do not state that NBS is a registered or incorporated company."
+          ]
+        },
+        "purpose": {
+          "title": "Website purpose",
+          "paragraphs": [
+            "The website presents informational material about Innovation ERP, POS, inventory capabilities, services, pricing references, and how to start a conversation about custom business software."
+          ]
+        },
+        "informational": {
+          "title": "Informational nature of content",
+          "paragraphs": [
+            "Demo systems, posters, interface recordings, descriptions, and marketing copy are informational. They illustrate capabilities and design direction; they are not a contractual specification."
+          ]
+        },
+        "pricing": {
+          "title": "Starting prices",
+          "paragraphs": [
+            "Published starting prices in JOD are non-binding reference estimates. Final scope, deliverables, payment schedule, ownership, support, and price require a separate written agreement after consultation.",
+            "Optional add-ons and third-party costs may be quoted separately and are included only when expressly agreed in writing. Taxes or legally required charges, if applicable, are handled in the final quote."
+          ]
+        },
+        "demos": {
+          "title": "Demos and future implementations",
+          "paragraphs": [
+            "A displayed demo or recording does not guarantee that a future client implementation will look or behave identically. Implementations are scoped to each business and may differ in modules, workflows, branding, data, and integrations."
+          ]
+        },
+        "relationship": {
+          "title": "Website submission does not create a client relationship",
+          "paragraphs": [
+            "Submitting the contact form, requesting a demo, or starting a conversation does not create a client, employment, or partnership relationship. A client engagement begins only under a separate written agreement."
+          ]
+        },
+        "acceptable": {
+          "title": "Acceptable use",
+          "paragraphs": [
+            "You may browse the site for lawful business evaluation. You must not misuse the site, attempt unauthorized access, overload services, or use automated scraping in a way that harms availability or security."
+          ]
+        },
+        "ip": {
+          "title": "Intellectual property",
+          "paragraphs": [
+            "Website content, branding, copy, interface designs, and product materials displayed here are owned by Ahmad Nazzal / the Nazzal Business Systems brand or used with permission. All rights not expressly granted remain reserved."
+          ]
+        },
+        "restrictions": {
+          "title": "Restrictions on copying and misuse",
+          "paragraphs": [
+            "You may not copy, redistribute, reverse engineer, or commercially reuse website or product materials without prior written permission, except for ordinary viewing and fair personal evaluation of the public site."
+          ]
+        },
+        "external": {
+          "title": "External links and third-party services",
+          "paragraphs": [
+            "Links to demos, WhatsApp, portfolio pages, or third-party sites are provided for convenience. Ahmad Nazzal / NBS is not responsible for the content, availability, or practices of external destinations."
+          ]
+        },
+        "availability": {
+          "title": "Availability and accuracy",
+          "paragraphs": [
+            "We aim to keep the website available and reasonably accurate, but content may contain errors or become outdated. The site may be interrupted for maintenance, hosting issues, or updates without notice."
+          ]
+        },
+        "warranties": {
+          "title": "No warranties",
+          "paragraphs": [
+            "The website and its content are provided “as is” and “as available” without warranties of any kind, whether express or implied, to the fullest extent permitted by applicable law, including no warranty that demos exactly match a future client implementation."
+          ]
+        },
+        "liability": {
+          "title": "Limitation of liability",
+          "paragraphs": [
+            "To the fullest extent permitted by applicable law, Ahmad Nazzal and the Nazzal Business Systems brand are not liable for indirect, incidental, special, consequential, or lost-profit damages arising from use of, or inability to use, this website.",
+            "Nothing in these terms excludes liability that cannot be limited under Jordanian law."
+          ]
+        },
+        "law": {
+          "title": "Governing law",
+          "paragraphs": [
+            "These terms are governed by the laws of the Hashemite Kingdom of Jordan. Courts in Jordan have exclusive jurisdiction over disputes arising from these terms or use of the website, unless mandatory rules provide otherwise."
+          ]
+        },
+        "changes": {
+          "title": "Changes to these Terms",
+          "paragraphs": [
+            "These Terms may be updated from time to time. The effective date above will be revised when material changes are published. Continued use of the website after an update constitutes acceptance of the revised Terms."
+          ]
+        }
+      },
+      "contactHeading": "Contact",
+      "contactBody": "Questions about these Terms: nazzall.ahmed@gmail.com.",
+      "contactPageLink": "Go to the contact section"
+    }
+  }
+}
